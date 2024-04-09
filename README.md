@@ -26,3 +26,30 @@ Atliq is a hardware manufacturing company and it sells goods to different custom
 -	In the visualisation part, different feature views are created
 
 ![image](https://github.com/jithinrb995/BI-360/assets/133872499/da532376-17f9-4a9e-9c36-1df49b53eac4)
+
+## Snapshots of the Power BI dashboard
+### Home page
+![image](https://github.com/jithinrb995/BI-360/assets/133872499/20fde405-e699-4894-92de-9991ac1d7a52)
+
+### Executive View
+![image](https://github.com/jithinrb995/BI-360/assets/133872499/ad0106c8-b9fc-45fb-bf38-ab70d701ba08)
+
+### Finance View
+![image](https://github.com/jithinrb995/BI-360/assets/133872499/55fcd32d-d867-4ed7-8a8f-8a0a3be9c94a)
+
+### Marketing View
+![image](https://github.com/jithinrb995/BI-360/assets/133872499/01d8addc-35b4-4f8e-9ff0-02f5a6871960)
+
+### Sales View
+![image](https://github.com/jithinrb995/BI-360/assets/133872499/8b128e84-2f1b-484b-ab00-36f2ccac2a83)
+
+### Supply Chain View
+![image](https://github.com/jithinrb995/BI-360/assets/133872499/743592b8-3fa1-4b09-8ce3-512301ce611a)
+
+Insights
+
+
+
+
+
+
