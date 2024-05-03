@@ -46,7 +46,7 @@ Atliq is a hardware manufacturing company and it sells goods to different custom
 ### Supply Chain View
 ![image](https://github.com/jithinrb995/BI-360/assets/133872499/743592b8-3fa1-4b09-8ce3-512301ce611a)
 
-Insights
+### Insights
 
 
 
