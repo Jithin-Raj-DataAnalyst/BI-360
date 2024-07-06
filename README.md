@@ -1,7 +1,7 @@
 
 # Business Intelligence 360
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/c1b37736-4716-42b9-aae3-e45716d32687/ReportSection
+### Dashboard Link here: https://app.powerbi.com/view?r=eyJrIjoiOWU4Y2ViZTktZTdjMS00ZWQxLTk4MzQtOGIwNzM3MDdjOTViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Problem Statement
 
